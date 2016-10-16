@@ -1,0 +1,6 @@
+{
+    "url": "https://matrix.org/_matrix/client/api/v1", 
+    "token": "MDAxOGxvY2F0aW9uIG1hdHJpeC5vcmcKMDAxM2lkZW50aWZpZXIga2V5CjAwMTBjaWQgZ2VuID0gMQowMDI3Y2lkIHVzZXJfaWQgPSBAaGVycGRlcnA6bWF0cml4Lm9yZwowMDE2Y2lkIHR5cGUgPSBhY2Nlc3MKMDAxZGNpZCB0aW1lIDwgMTQ3NjY0OTQ2MTk4OAowMDJmc2lnbmF0dXJlIJV2aroYKW3aJ4ZfuQXux-aKrWGYIvqQJmmj9s5yuSbnCg", 
+    "admins": [], 
+    "user": "@herpderp:matrix.org"
+}
